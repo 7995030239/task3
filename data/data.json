@@ -1,0 +1,106 @@
+{
+	"details":{
+		"name":"pooja",
+		"image":"grl2.png",
+		"email":"aaa@gmail.com",
+         "number":"998856768998",
+         "address":"kakinada"
+
+	},
+
+	"careerobjective":{
+		"info":"To put my abilities and learning skills to bst use and make my eeffective contribution to an organization for a bright and rewarding career."
+	},
+	"educationalqualification":[
+		{
+			"institute":"andhrauniversity",
+			"degree":"B.Tech",
+			"passoutyear":"2020",
+			"percentage":"82%"
+		},
+		{
+			"institute":"TJC",
+			"degree":"Inter",
+			"passoutyear":"2016",
+			"percentage":"98%"
+		},
+		{
+			"institute":"Bhashyam",
+			"degree":"SSC",
+			"passoutyear":"2014",
+			"percentage":"97%"
+		}
+
+
+
+
+
+
+
+	],
+
+
+	"technicalskills":[
+		{
+		"title":"prog languages",
+		"info":["c,cpp,java,python,R"]
+     },
+
+     	{
+		"title":"databases",
+		"info":["mysql,oracle"]
+     }
+
+	],
+
+	"Workshops":[
+
+   {
+     "info":"2-Day workshop on IOT by IIT-Bombay"
+
+   },
+
+
+    {
+     "info":"Participated in event BUG TRACK in JNTUK"
+
+   },
+
+    {
+     "info":"Presentation on Cloud Computing in JNTUK"
+
+   }
+
+
+
+
+
+	],
+
+ "Projects":[
+
+    {
+    	     "info":"Efficient Keyword Search over Encrypted data in cloud"
+    },
+      {
+    	     "info":"Designed a website about ksheerapuri Lord shiva temple"
+    }
+	],
+
+ "Hobbies":[
+
+    {
+    	"info":"Playing carroms,chess,Listening to Music,Cooking"
+    },
+
+    
+     {
+    	"info":"Paper Craft,Drawing,Coin Collection"
+    }
+
+   
+ ],
+ "Declaration":{
+ 	"info":"I here by declare that all the above furnished information and particulars are true to the best of my knowledge."
+ }
+}
